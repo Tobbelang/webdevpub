@@ -673,16 +673,6 @@
 			font-size: 4.125em;
 		}
     }
-	@media screen and (max-height: 777px) {
-	.information-box:hover::after {
-        width: 70px;
-        height: 90px;
-		font-size: 0.4em;
-		background: rgba(211,211,211,0.3);
-		color: white;
-		left: 40px;
-    }
-	}
 	@media screen and (max-width: 700px) {
 		.background-utemal {
 			width: 450px;
